@@ -6,3 +6,6 @@ Microcontroller based weather display that gets data from an RSS feed and displa
 * The red LED indicates when the project is not connected to an access point
 * The yellow LED indicates when the project is updating. The pushbutton is not useable when this LED is on
 
+![alt text](images/image1.jpg "Description goes here")
+![alt text](images/image2.jpg "Description goes here")
+![alt text](images/image3.jpg "Description goes here")
